@@ -40,4 +40,4 @@ Forked from https://www.drupal.org/project/ms_ajax_form_example.
 
 During the install the module create a Table where will be stored the data
 
-After install go to: {Drupal/Install/Idrectory/multi/step/jeff
+After install go to: {Drupal/Install/Idrectory}/multi/step/jeff
