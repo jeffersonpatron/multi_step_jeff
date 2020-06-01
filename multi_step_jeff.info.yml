@@ -1,0 +1,6 @@
+name: Multi Step Jeff
+type: module
+description: 'Multi-Step Jeff form in Drupal 8'
+core: 8.x
+package: Custom
+configure: multi_step_jeff.page
